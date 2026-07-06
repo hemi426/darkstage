@@ -1,5 +1,3 @@
----
----
 # DarkStage Privacy Policy
 
 *Last updated: July 6, 2026*
