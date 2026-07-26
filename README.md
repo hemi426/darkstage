@@ -6,4 +6,11 @@ DarkStage is a tablet-first setlist and performance management app for musicians
 
 - [About DarkStage](about.md) — why this app exists, and the philosophy behind it
 - [Privacy Policy](privacy-policy.md)
-- User Guide — coming soon
+- [User Guide](guide/index.md)
+  - [The Basic Workflow](guide/index.md#the-basic-workflow)
+  - [Caveats and Things to Watch For](guide/index.md#caveats-and-things-to-watch-for)
+  - [Deleting Your Data from Google Drive](guide/index.md#deleting-your-data-from-google-drive)
+  - [Shows](guide/shows.md)
+  - [Library](guide/library.md)
+  - [Performance](guide/performance.md)
+  - [Settings](guide/settings.md)
