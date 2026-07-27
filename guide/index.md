@@ -22,7 +22,7 @@ If you're a **DarkStage Pro** user, venue lookup is covered in [Shows](shows.md)
 
 ## Tips
 
-Practical advice from actually using DarkStage at real gigs...Not required reading, but worth a look.
+Practical advice from actually using DarkStage at real gigs; not required reading, but worth a look.
 
 ### Library
 
