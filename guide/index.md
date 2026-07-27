@@ -18,11 +18,11 @@ If you're a **DarkStage Pro** user, venue lookup is covered in [Shows](shows.md)
 - **[Shows](shows.md)**: creating and managing gigs, building setlists, venue lookup and directions, calendar import
 - **[Library](library.md)**: your master song list, notes and markdown, the chord/key picker toolbar
 - **[Performance](performance.md)**: what you see when running an actual show, including gestures, the screen layout, set breaks, exiting
-- **[Settings](settings.md)**: every toggle, what it does, and what it defaults to
+- **[Settings](settings.md)**: every configuration option, what it does, and what it defaults to
 
 ## Tips
 
-Practical advice from actually using DarkStage at real gigs; not required reading, but worth a look.
+Practical advice from actually using DarkStage at real gigs...Not required reading, but worth a look.
 
 ### Library
 
