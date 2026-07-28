@@ -39,6 +39,7 @@ Practical advice from actually using DarkStage at real gigs...Not required readi
 
 ### Performance
 
+- For a guaranteed easy-to-read screen that always shows your notes at the largest size without overflowing, make sure Full Bright by Default, Max Font Size on Launch, and Auto-fit Notes are all enabled in Settings. This gives you a great starting point for any performance.
 - If you're going to be in Performance mode for a while, consider hooking up a USB power supply of some sort—a charger, a power bank, whatever you've got—to make sure your device has enough battery to last the whole show.
 - Consider turning off Wi-Fi and mobile data during a performance. No network connection will save battery, and it means no notifications or connectivity hiccups pulling your attention back to your screen unnecessarily.
 - If a venue tends to be dim, or your device seems to dim on its own during a show, check Full Bright by Default or Pin Brightness on Performance Launch in Settings before you hit the stage.
