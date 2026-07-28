@@ -4,7 +4,9 @@ A rundown of everything you can adjust, grouped the same way they're grouped in 
 
 ## Performance
 
-- **Full Bright by Default**: forces your screen to maximum brightness the instant you start a performance. This is a deliberate choice, not a fix for anything — turn it on if you always want max brightness on stage regardless of what your device's own brightness happened to be set to beforehand.
+- **Full Bright by Default**: forces your screen to maximum brightness the instant you start a performance. This is a deliberate choice, not a fix for anything. Turn this on if you always want max brightness on stage regardless of what your device's own brightness happened to be set to beforehand. Note that brightness control is still available via the right-side drag.
+- **Max Font Size on Launch**: starts your notes text at its largest pinch-zoom size the moment you enter a performance, rather than wherever it was left. Off by default; pairs naturally with Auto-fit Notes below, which will still shrink things back down on a per-song basis if the combined notes are too long to fit at full size.
+- **Auto-fit Notes**: shrinks your notes text just enough to keep your Song Notes and Show Notes from overflowing the screen, without you having to manually pinch it down every time. It won't ever grow text past whatever size you've pinched to. This setting will not affect the size you've got things set at, so if the next song or talk card's notes fit at the larger size, they will not be shrunk to fit. On by default.
 
 ### Advanced
 
@@ -17,7 +19,6 @@ Tucked away since most people will never need to touch these settings. They exis
 
 - **Show Next Song Preview**: toggles the small "up next" preview at the bottom of the Performance screen
 - **Show BPM** / **Show Key** / **Show Time Signature**: toggle each of these independently in the Performance header
-- **Auto-fit Notes**: shrinks your notes text just enough to keep your Song Notes and Show Notes from overflowing the screen, without you having to manually pinch it down every time. It won't ever grow text past whatever size you've pinched to — it only ever shrinks to fit.
 - **Song Title Line Limit**: how many lines a song title can wrap to before it's cut off with "…". Defaults to Unlimited; choose 1, 2, or 3 lines if you'd rather it never take up more space than that.
 - **'Next' Line Limit**: the same idea, for the "up next" preview. Defaults to Unlimited; choose 1 or 2 lines.
 - **Theme**: Dark (the default), Amber on Black, Green on Black, Dark on Light, Dark on Warm White, and two fully customizable slots (Custom 1 and Custom 2) where you pick your own text and background colors.
